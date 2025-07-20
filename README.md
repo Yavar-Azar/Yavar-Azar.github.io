@@ -1,6 +1,3 @@
----
-title: Yavar T. Azar
----
 
 # 👋 Hi, I'm Yavar Azar
 
