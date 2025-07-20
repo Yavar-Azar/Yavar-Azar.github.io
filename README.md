@@ -1,3 +1,14 @@
+## 📫 Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/yavar-taghipour-azar-1262a237/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/yavar-azar)
+[![GitLab](https://img.shields.io/badge/GitLab-Visit-orange?logo=gitlab)](https://gitlab.com/Yavar)
+[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:y.t.azar@gmail.com)
+[![X](https://img.shields.io/badge/X-Follow-000000?logo=twitter&logoColor=white)](https://x.com/yavar_aazar)
+
+
+---
+
 
 # 👋 Hi, I'm Yavar Azar
 
@@ -52,16 +63,6 @@ If you’re working on something exciting or need support with your scientific s
 
 ---
 
-## 📫 Contact
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/yavar-taghipour-azar-1262a237/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/yavar-azar)
-[![GitLab](https://img.shields.io/badge/GitLab-Visit-orange?logo=gitlab)](https://gitlab.com/yavar81)
-[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:you@example.com)
-[![X](https://img.shields.io/badge/X-Follow-000000?logo=twitter&logoColor=white)](https://twitter.com/yavar)
-
-
----
 
 ## 📁 Selected Projects
 
